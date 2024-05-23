@@ -7,4 +7,4 @@ A tool for generating a directory structure map. This is particularly useful for
 To generate a directory structure description, run:
 
 ```bash
-gen-dir-structure /path/to/directory output.txt
+gen-dir-structure
