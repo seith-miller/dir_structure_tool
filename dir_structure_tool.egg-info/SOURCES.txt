@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+dir_structure/__init__.py
+dir_structure/main.py
+dir_structure/utils.py
+dir_structure_tool.egg-info/PKG-INFO
+dir_structure_tool.egg-info/SOURCES.txt
+dir_structure_tool.egg-info/dependency_links.txt
+dir_structure_tool.egg-info/entry_points.txt
+dir_structure_tool.egg-info/top_level.txt
+tests/__init__.py
+tests/test_main.py
+tests/test_utils.py

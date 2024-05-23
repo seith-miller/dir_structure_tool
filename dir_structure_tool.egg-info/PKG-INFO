@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: dir-structure-tool
+Version: 0.1.0
+Summary: A command-line tool to generate a structured description of a directory.
+Home-page: https://github.com/yourusername/dir_structure_tool
+Author: Your Name
+Author-email: your.email@example.com
+License: MIT
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+
